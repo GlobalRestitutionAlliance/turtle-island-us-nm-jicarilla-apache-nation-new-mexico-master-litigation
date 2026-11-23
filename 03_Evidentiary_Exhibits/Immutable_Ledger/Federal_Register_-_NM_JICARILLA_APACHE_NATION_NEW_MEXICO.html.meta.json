@@ -1,0 +1,17 @@
+{
+  "url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=NM+JICARILLA+APACHE+NATION+NEW+MEXICO",
+  "final_url": "https://www.federalregister.gov/documents/search?conditions%5Bsearch_type_id%5D=3&conditions%5Bterm%5D=NM+JICARILLA+APACHE+NATION+NEW+MEXICO",
+  "title": "Federal Register - NM JICARILLA APACHE NATION NEW MEXICO",
+  "fetched_at": "2026-11-23T18:12:25.680784Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 287465,
+  "sha256": "c696b864f6b97a9e40a42d1d4437959a268e7441fec586021fd96996a11cae3d",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
